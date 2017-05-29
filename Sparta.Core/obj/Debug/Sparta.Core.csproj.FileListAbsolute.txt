@@ -1,0 +1,9 @@
+D:\Angula js\SPARTA\Sparta.Core\bin\Debug\Sparta.Core.dll.config
+D:\Angula js\SPARTA\Sparta.Core\bin\Debug\Sparta.Core.dll
+D:\Angula js\SPARTA\Sparta.Core\bin\Debug\Sparta.Core.pdb
+D:\Angula js\SPARTA\Sparta.Core\bin\Debug\EntityFramework.dll
+D:\Angula js\SPARTA\Sparta.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Angula js\SPARTA\Sparta.Core\bin\Debug\EntityFramework.xml
+D:\Angula js\SPARTA\Sparta.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Angula js\SPARTA\Sparta.Core\obj\Debug\Sparta.Core.dll
+D:\Angula js\SPARTA\Sparta.Core\obj\Debug\Sparta.Core.pdb

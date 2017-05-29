@@ -1,0 +1,9 @@
+D:\Angula js\SPARTA\Sparta.Infrastructure.Encryption\bin\Debug\Sparta.Infrastructure.Encryption.dll
+D:\Angula js\SPARTA\Sparta.Infrastructure.Encryption\bin\Debug\Sparta.Infrastructure.Encryption.pdb
+D:\Angula js\SPARTA\Sparta.Infrastructure.Encryption\bin\Debug\Sparta.Core.dll
+D:\Angula js\SPARTA\Sparta.Infrastructure.Encryption\bin\Debug\EntityFramework.dll
+D:\Angula js\SPARTA\Sparta.Infrastructure.Encryption\bin\Debug\Sparta.Core.pdb
+D:\Angula js\SPARTA\Sparta.Infrastructure.Encryption\bin\Debug\EntityFramework.xml
+D:\Angula js\SPARTA\Sparta.Infrastructure.Encryption\obj\Debug\Sparta.Infrastructure.Encryption.csprojResolveAssemblyReference.cache
+D:\Angula js\SPARTA\Sparta.Infrastructure.Encryption\obj\Debug\Sparta.Infrastructure.Encryption.dll
+D:\Angula js\SPARTA\Sparta.Infrastructure.Encryption\obj\Debug\Sparta.Infrastructure.Encryption.pdb

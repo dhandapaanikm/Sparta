@@ -1,0 +1,12 @@
+D:\Angula js\SPARTA\Sparta.Infrastructure\bin\Debug\Sparta.Infrastructure.dll.config
+D:\Angula js\SPARTA\Sparta.Infrastructure\bin\Debug\Sparta.Infrastructure.dll
+D:\Angula js\SPARTA\Sparta.Infrastructure\bin\Debug\Sparta.Infrastructure.pdb
+D:\Angula js\SPARTA\Sparta.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Angula js\SPARTA\Sparta.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Angula js\SPARTA\Sparta.Infrastructure\bin\Debug\Sparta.Core.dll
+D:\Angula js\SPARTA\Sparta.Infrastructure\bin\Debug\Sparta.Core.pdb
+D:\Angula js\SPARTA\Sparta.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Angula js\SPARTA\Sparta.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Angula js\SPARTA\Sparta.Infrastructure\obj\Debug\Sparta.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Angula js\SPARTA\Sparta.Infrastructure\obj\Debug\Sparta.Infrastructure.dll
+D:\Angula js\SPARTA\Sparta.Infrastructure\obj\Debug\Sparta.Infrastructure.pdb
